@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 16px;
   line-height: 1;
 }
@@ -78,6 +78,14 @@ textarea {
 .custom-middle {
   background-color: gray;
   border: solid black;
+}
+
+.white {
+  background-color: white;
+}
+
+.green {
+  background-color: green;
 }
 
 .custom-right {
