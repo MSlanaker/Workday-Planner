@@ -15,7 +15,10 @@ function checkHour() {
         var rowID = currentRow.getAttribute("id")
         var compareId = parseInt(rowID)
         if (compareId === currentHour) {
-            currentRow.classList.add("green")
+            currentRow.classList.add("red")
+        } else if (compareId > currentHour) {
+            currentRow.classList.add("gray")
+            
         } else {
             currentRow.classList.add("white")
         }

@@ -76,20 +76,20 @@ textarea {
 }
 
 .custom-middle {
-  background-color: gray;
+  background-color: #77dd77;
   border: solid black;
 }
 
 .white {
-  background-color: white;
+  background-color: #d3d3d3;
 }
 
-.green {
-  background-color: green;
+.red {
+  background-color: #ff6961;
 }
 
 .custom-right {
-  background-color: tomato;
+  background-color: #ff6961;
   border: solid black;
   border-radius: 0px 5px 5px 0px;
 }
