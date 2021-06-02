@@ -1,9 +1,9 @@
 # # Workday Planner
 ## Description
-A short, timed quiz testing some JavaScript basics.
-- Answer the questions in the alloted time.
-- After answering the questions, it will provide the user's score based on the number of questions answered correctly.
-- User can then put in their initials and their score will be saved and displayed.
+A simple schedule keeping application for the workday.
+- User puts in everything they need to get done within each hour of the workday.
+- Application will dynamically update the color of the schedule to alert the user what time it is.
+- User can save their schedule to check on throughout the day.
 ## Installation
 Clone the repo and open the folder in any code developing environment.
 ## Credits
